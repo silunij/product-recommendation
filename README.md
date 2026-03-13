@@ -8,7 +8,10 @@ The project also includes a Streamlit dashboard that allows users to interactive
 
 ## Dataset
 
-Amazon Reviews Dataset
+This project uses the Amazon Reviews Dataset.
+Due to GitHub file size limits, the dataset is not included in this repository.
+Download it here:
+https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
 
 The dataset contains:
 user IDs
