@@ -10,7 +10,7 @@ GitPython==3.1.46
 idna==3.11
 Jinja2==3.1.6
 joblib==1.5.3
-jsonschema==4.26.0
+jsonschema==4.25.1
 jsonschema-specifications==2025.9.1
 MarkupSafe==3.0.3
 narwhals==2.18.0
